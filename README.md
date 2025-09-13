@@ -111,10 +111,9 @@ Feel free to fork this project and submit pull requests for improvements!
 
 This project is open source. Please check the LICENSE file for details.
 
-## Authors
+## Author
 
-- AI & DS Programming Fundamentals Project
-- Fall 2022 Semester
+- Muhammad Zain Raza
 
 ---
 
